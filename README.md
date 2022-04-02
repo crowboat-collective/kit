@@ -1,1 +1,1 @@
-# CrowKit
+# Kit
