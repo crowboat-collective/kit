@@ -1,6 +1,6 @@
 ---
 name: Package Request
-about: Suggest an package for this project
+about: Suggest a package for this project
 title: ''
 labels: enhancement
 assignees: ''
