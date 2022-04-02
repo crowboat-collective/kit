@@ -4,4 +4,4 @@ Kit is the developer's toolkit here at CrowBoat! Over the course of our projects
 
 Do you have a package you think we should include? Open a package request issue, fill out the template, and connect it to a PR with your proposed golang package.
 
-Then any available developers will review the code and hopefully add it to our repetoire!
+The package should keep third-party dependencies to a minimum as well as be tested for efficiency and correctness.
